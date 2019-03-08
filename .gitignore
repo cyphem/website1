@@ -1,0 +1,3 @@
+#this is a gitignore file
+index - Copy.html
+!wordpress/wp-content/themes/new-theme/
